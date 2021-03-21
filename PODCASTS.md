@@ -92,6 +92,7 @@
 | Sobre História                   | História                          | https://sobrehist.wordpress.com/                                                        |         |
 | Spin de Notícias                 | Diversos                          | http://www.deviante.com.br/podcasts/spin/                                               |         |
 | TemaCast                         | História                          | http://temacast.com.br/wp/podcasts/                                                     |         |
+| Tianix                           | Filosofia e Musicologia           | https://tianix.wordpress.com/                                                           |         |
 | Trabalho de Mesa                 | Artes Cênicas                     | http://dragoesdegaragem.com/trabalhodemesa/                                             |         |
 | UltraGeek                        | Tecnologia                        | http://www.redegeek.com.br/podcast/                                                     |         |
 | Verbalizando                     |                                   | https://mundopodcast.com.br/teiacast/educacao/verbalizando-podcast/                     |         |
